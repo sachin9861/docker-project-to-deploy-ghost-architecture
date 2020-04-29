@@ -1,0 +1,1 @@
+# docker-project-to-deploy-ghost-architecture
